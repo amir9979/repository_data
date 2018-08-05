@@ -1,0 +1,10 @@
+version_name,#files in version,#bugged files in version,version_date
+0.1.1-incubating-rc4,449,39,2012-01-29
+gora-0.2,436,40,2012-04-19
+apache-gora-0.2.1,445,96,2012-07-26
+apache-gora-0.3,438,146,2013-05-03
+apache-gora-0.4,422,56,2014-04-16
+apache-gora-0.5,411,27,2014-09-16
+apache-gora-0.6,410,118,2015-02-12
+apache-gora-0.6.1,374,277,2015-09-05
+apache-gora-0.7,171,75,2017-03-16

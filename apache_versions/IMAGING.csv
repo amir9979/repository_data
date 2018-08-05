@@ -1,0 +1,5 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+sanselan-0.97-incubator,760,30,0.039473684210526314,2012-04-16
+commons-imaging-1.0-RC2,510,4,0.00784313725490196,2012-07-23
+commons-imaging-1.0-RC3,504,0,0.0,2012-09-24
+commons-imaging-1.0-RC4,504,401,0.7956349206349206,2012-09-24

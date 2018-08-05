@@ -1,0 +1,9 @@
+version_name,#files in version,#bugged files in version,version_date
+maven-indexer-3.1.0,285,24,2010-11-23
+maven-indexer-4.0.0,285,20,2011-01-11
+maven-indexer-4.1.0,283,4,2011-03-31
+maven-indexer-4.1.1,219,16,2011-06-09
+maven-indexer-4.1.2,202,4,2011-09-21
+maven-indexer-5.0.0,167,22,2012-09-17
+maven-indexer-5.1.0,163,3,2012-11-20
+maven-indexer-5.1.1,161,135,2013-03-04

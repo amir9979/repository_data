@@ -1,0 +1,9 @@
+version_name,#files in version,#bugged files in version,version_date
+import,2418,1458,2013-02-19
+check-license-notice,1972,103,2013-03-25
+3.0.0-incubating,1962,359,2013-04-11
+3.1.0-incubating,1874,1258,2013-09-24
+3.0.1,1964,195,2014-01-14
+3.2.0,1069,7,2014-04-09
+3.2.1,1069,148,2014-05-19
+3.3.0,951,132,2014-12-05

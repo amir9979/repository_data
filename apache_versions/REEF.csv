@@ -1,0 +1,19 @@
+version_name,#files in version,#bugged files in version,version_date
+reef-project-0.10.0-incubating,3476,2848,2015-01-07
+release-0.11.0-incubating-rc3,2401,0,2015-04-30
+release-0.11.0-incubating-rc5,2401,5,2015-05-05
+release-0.11.0-incubating-rc6,2401,34,2015-05-08
+release-0.11.0-incubating-rc8,2401,76,2015-05-14
+reef-project-0.11.0-incubating,2401,1768,2015-05-20
+release-0.12.0-incubating-rc1,1675,2,2015-08-07
+release-0.12.0-incubating-rc2,1675,77,2015-08-07
+reef-project-0.12.0-incubating,1675,363,2015-08-17
+release-0.13.0-incubating-rc1,1532,188,2015-10-06
+reef-project-0.13.0-incubating,1532,958,2015-10-21
+release-0.14.0-rc1,783,88,2016-02-23
+release-0.14.0-rc3,782,0,2016-03-17
+reef-project-0.14.0,782,277,2016-03-21
+release-0.15.0-rc2,550,1,2016-05-20
+reef-project-0.15.0,550,118,2016-05-24
+release-0.15.1-rc1,545,198,2016-08-24
+release-0.16.0-rc1,299,47,2017-08-02

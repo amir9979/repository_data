@@ -1,0 +1,4 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+maven-doap-plugin-1.0-beta-1,7,6,0.8571428571428571,2006-07-21
+maven-doap-plugin-1.0,7,7,1.0,2008-07-28
+maven-doap-plugin-1.1,5,1,0.2,2011-01-12

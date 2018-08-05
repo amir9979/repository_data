@@ -1,0 +1,14 @@
+version_name,#files in version,#bugged files in version,version_date
+v1.4,1022,51,2010-01-14
+v1.5,1001,54,2010-05-30
+v1.5.1,999,107,2010-08-16
+v1.5.2,999,13,2010-10-15
+v2.0,885,69,2010-12-21
+pivot-archetype-quickstart-1.0,936,27,2011-08-24
+2.0.1,884,15,2012-01-08
+pivot-archetype-quickstart-1.0.1,936,11,2012-01-28
+pivot-archetype-quickstart-1.0.2,936,40,2012-05-22
+2.0.3,870,12,2013-03-27
+pivot-archetype-quickstart-1.0.3,936,224,2013-08-06
+2.0.4,870,4,2014-05-06
+pivot-archetype-quickstart-1.0.4,936,358,2014-05-29

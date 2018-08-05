@@ -1,0 +1,12 @@
+version_name,#files in version,#bugged files in version,version_date
+amber-0.22-incubating,259,43,2013-01-18
+org.apache.oltu.parent-1,247,20,2013-05-09
+org.apache.oltu.oauth2-0.31,254,66,2013-06-20
+org.apache.oltu.parent-2,247,0,2014-02-03
+org.apache.oltu.commons.parent-1,249,0,2014-02-03
+org.apache.oltu.oauth2.parent-1.0.0,252,17,2014-03-05
+org.apache.oltu.parent-3,247,6,2015-07-06
+org.apache.oltu.oauth2.parent-1.0.1,250,60,2015-09-17
+org.apache.oltu.oauth2.parent-1.0.2,248,8,2016-04-22
+org.apache.oltu.commons.parent-2,249,0,2016-08-02
+org.apache.oltu.jose.parent-2,247,2,2016-08-02

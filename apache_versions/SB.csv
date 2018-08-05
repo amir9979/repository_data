@@ -1,0 +1,4 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+STRUTS_1_2_6,1263,0,0.0,2004-11-20
+STRUTS_1_2_7,1203,245,0.20365752285951788,2005-05-06
+STRUTS_1_2_8,1263,1305,1.0332541567695963,2005-11-08

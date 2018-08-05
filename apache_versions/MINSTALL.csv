@@ -1,0 +1,7 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+maven-install-plugin-2.0,27,1,0.037037037037037035,2005-10-15
+maven-install-plugin-2.1,27,11,0.4074074074074074,2006-01-11
+maven-install-plugin-2.2,30,2,0.06666666666666667,2007-05-14
+maven-install-plugin-2.3,26,2,0.07692307692307693,2009-03-22
+maven-install-plugin-2.3.1,26,3,0.11538461538461539,2010-05-17
+maven-install-plugin-2.4,26,0,0.0,2012-09-03

@@ -1,0 +1,13 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+maven-changes-plugin-2.0-beta-2,87,5,0.05747126436781609,2006-09-24
+maven-changes-plugin-2.0,83,4,0.04819277108433735,2008-04-13
+maven-changes-plugin-2.1,85,3,0.03529411764705882,2008-11-18
+maven-changes-plugin-2.3,84,5,0.05952380952380952,2009-12-06
+maven-changes-plugin-2.4,78,20,0.2564102564102564,2011-01-24
+maven-changes-plugin-2.5,77,0,0.0,2011-05-20
+maven-changes-plugin-2.6,76,0,0.0,2011-06-19
+maven-changes-plugin-2.7.1,76,10,0.13157894736842105,2012-05-10
+maven-changes-plugin-2.8,73,11,0.1506849315068493,2012-09-11
+maven-changes-plugin-2.10,69,4,0.057971014492753624,2014-04-10
+maven-changes-plugin-2.11,69,55,0.7971014492753623,2014-09-24
+maven-changes-plugin-2.12,69,2,0.028985507246376812,2016-03-31

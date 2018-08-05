@@ -1,0 +1,11 @@
+version_name,#files in version,#bugged files in version,version_date
+mime4j_0_2,403,4,2006-01-09
+apache-mime4j-0.3,340,77,2007-05-24
+apache-mime4j-0.4,387,60,2008-08-14
+apache-mime4j-0.5,454,646,2008-10-12
+apache-mime4j-0.6.1,471,124,2010-12-27
+apache-mime4j-project-0.7,196,9,2011-07-20
+apache-mime4j-project-0.7.1,196,7,2011-10-08
+apache-mime4j-project-0.7.2,197,130,2012-01-07
+apache-mime4j-project-0.8.0,54,14,2016-10-12
+apache-mime4j-project-0.8.1,45,16,2017-06-09

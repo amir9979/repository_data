@@ -1,0 +1,5 @@
+version_name,#files in version,#bugged files in version,version_date
+apache-rat-project-0.6RC1,153,0,2009-02-28
+apache-rat-project-0.6,150,135,2009-03-19
+apache-rat-project-0.7rc1,69,22,2010-07-13
+apache-rat-project-0.7,61,9,2010-07-30

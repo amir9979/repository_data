@@ -1,0 +1,5 @@
+version_name,#files in version,#bugged files in version,version_date
+apache-vxquery-0.2-incubating,750,4,2013-10-03
+apache-vxquery-0.3-incubating,748,19,2014-04-10
+apache-vxquery-0.4,757,0,2014-09-01
+apache-vxquery-0.5,757,597,2015-03-02

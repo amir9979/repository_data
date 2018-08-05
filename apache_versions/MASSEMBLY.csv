@@ -1,0 +1,19 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+maven-assembly-plugin-2.0,335,58,0.17313432835820897,2005-10-15
+maven-assembly-plugin-2.2-beta-1,529,21,0.03969754253308128,2007-04-22
+maven-assembly-plugin-2.2-beta-2,448,34,0.07589285714285714,2008-02-21
+maven-assembly-plugin-2.2-beta-3,449,0,0.0,2008-12-17
+maven-assembly-plugin-2.2-beta-4,449,30,0.066815144766147,2009-06-01
+maven-assembly-plugin-2.2-beta-5,404,69,0.1707920792079208,2009-12-06
+maven-assembly-plugin-2.2,371,2,0.005390835579514825,2010-10-07
+maven-assembly-plugin-2.2.1,368,1,0.002717391304347826,2011-02-24
+maven-assembly-plugin-2.3,367,11,0.02997275204359673,2012-01-24
+maven-assembly-plugin-2.4,368,15,0.04076086956521739,2012-11-14
+maven-assembly-plugin-2.4.1,368,6,0.016304347826086956,2014-07-30
+maven-assembly-plugin-2.5,151,6,0.039735099337748346,2014-10-23
+maven-assembly-plugin-2.5.1,141,7,0.04964539007092199,2014-11-04
+maven-assembly-plugin-2.5.2,136,2,0.014705882352941176,2014-11-14
+maven-assembly-plugin-2.5.4,132,0,0.0,2015-04-23
+maven-assembly-plugin-2.5.5,132,3,0.022727272727272728,2015-05-31
+maven-assembly-plugin-2.6,132,2,0.015151515151515152,2015-10-06
+maven-assembly-plugin-3.0.0,22,4,0.18181818181818182,2016-11-09

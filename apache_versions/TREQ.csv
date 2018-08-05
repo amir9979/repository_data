@@ -1,0 +1,7 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+tiles-request-1.0.0,38,2,0.05263157894736842,2012-05-04
+tiles-request-1.0.1,31,1,0.03225806451612903,2012-07-11
+tiles-request-1.0.2,19,4,0.21052631578947367,2012-08-21
+tiles-request-1.0.3,14,0,0.0,2013-05-20
+tiles-request-1.0.4,14,3,0.21428571428571427,2014-03-30
+tiles-request-1.0.6,12,4,0.3333333333333333,2014-09-16

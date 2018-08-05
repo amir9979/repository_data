@@ -1,0 +1,12 @@
+version_name,#files in version,#bugged files in version,version_date
+org.apache.aries.proxy-distro-0.8,2518,126,2011-02-28
+parent-0.4,2514,898,2011-03-14
+org.apache.aries.util-0.2.1,2512,17,2011-09-15
+application-0.2.2,2585,59,2011-09-20
+org.apache.aries.util-0.4,2515,2,2011-10-10
+org.apache.aries.quiesce.manager-0.3.1,2512,5,2011-10-11
+org.apache.aries.quiesce.manager.itest-0.3.1,2512,1,2011-10-12
+org.apache.aries.blueprint.api-0.3.2,2512,0,2011-10-13
+org.apache.aries.blueprint.annotation.impl-0.3.2,2546,2,2011-10-14
+blueprint-parser-0.4,2512,5,2011-10-17
+org.apache.aries.blueprint.sample-fragment-0.3.2,2513,2,2011-10-21

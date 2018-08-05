@@ -1,0 +1,3 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+release-0.9.0-incubating,78,53,0.6794871794871795,2012-05-22
+release-1.0.0-hadoop2,62,63,1.0161290322580645,2013-04-02

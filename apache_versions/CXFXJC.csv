@@ -1,0 +1,5 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+xjc-utils-3.0.3,19,2,0.10526315789473684,2014-11-14
+xjc-utils-3.0.5,17,5,0.29411764705882354,2015-09-01
+xjc-utils-3.1.0,11,0,0.0,2016-12-15
+xjc-utils-3.2.1,4,0,0.0,2018-02-02

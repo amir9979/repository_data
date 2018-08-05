@@ -1,0 +1,19 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+maven-site-plugin-2.0-beta-5,126,14,0.1111111111111111,2006-05-14
+maven-site-plugin-2.0-beta-6,146,7,0.04794520547945205,2007-11-24
+maven-site-plugin-2.0-beta-7,146,7,0.04794520547945205,2008-06-26
+maven-site-plugin-2.0,124,0,0.0,2009-03-08
+maven-site-plugin-2.0.1,124,0,0.0,2009-07-10
+maven-site-plugin-2.1.1,122,12,0.09836065573770492,2010-05-31
+maven-site-plugin-3.0-beta-1,124,1,0.008064516129032258,2010-08-07
+maven-site-plugin-3.0-beta-2,123,0,0.0,2010-09-04
+maven-site-plugin-2.2,122,9,0.07377049180327869,2010-11-25
+maven-site-plugin-2.3,119,109,0.9159663865546218,2011-05-20
+maven-site-plugin-3.0,113,4,0.035398230088495575,2011-07-30
+maven-site-plugin-3.1,110,11,0.1,2012-04-27
+maven-site-plugin-3.2,110,1,0.00909090909090909,2012-10-11
+maven-site-plugin-3.3,109,5,0.045871559633027525,2013-05-09
+maven-site-plugin-3.4,26,5,0.19230769230769232,2014-07-07
+maven-site-plugin-3.5.1,13,0,0.0,2016-04-11
+maven-site-plugin-3.6,5,0,0.0,2016-11-12
+maven-site-plugin-3.7,5,0,0.0,2017-12-28

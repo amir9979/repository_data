@@ -1,0 +1,8 @@
+version_name,#files in version,#bugged files in version,version_date
+maven-plugin-testing-1.2,32,3,2008-07-18
+maven-plugin-testing-2.0-alpha-1,30,7,2009-11-16
+maven-plugin-testing-2.0,25,3,2012-05-23
+maven-plugin-testing-1.3,35,4,2012-09-24
+maven-plugin-testing-3.0.0,18,2,2013-12-06
+maven-plugin-testing-3.1.0,18,4,2014-02-08
+maven-plugin-testing-3.2.0,7,3,2014-07-08

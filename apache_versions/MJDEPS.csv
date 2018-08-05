@@ -1,0 +1,3 @@
+version_name,#files in version,#bugged files in version,version_date
+maven-jdeps-plugin-3.0.0,12,0,2015-10-26
+maven-jdeps-plugin-3.1.0,10,0,2017-08-30

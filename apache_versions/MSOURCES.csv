@@ -1,0 +1,10 @@
+version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+maven-source-plugin-2.0,55,21,0.38181818181818183,2005-10-15
+maven-source-plugin-2.0.1,67,4,0.05970149253731343,2006-05-07
+maven-source-plugin-2.0.2,58,38,0.6551724137931034,2006-12-13
+maven-source-plugin-2.0.4,47,0,0.0,2007-11-08
+maven-source-plugin-2.1,46,1,0.021739130434782608,2009-04-17
+maven-source-plugin-2.1.2,46,0,0.0,2010-05-17
+maven-source-plugin-2.2.1,45,0,0.0,2012-10-09
+maven-source-plugin-2.4,23,8,0.34782608695652173,2014-10-07
+maven-source-plugin-3.0.0,7,0,0.0,2016-02-10
