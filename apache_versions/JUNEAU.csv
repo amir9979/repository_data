@@ -1,11 +1,26 @@
-version_name,#files in version,#bugged files in version,version_date
-juneau-6.0.0-incubating-RC2,2410,166,2016-10-03
-juneau-6.0.0-incubating-RC3,2415,49,2016-10-09
-juneau-6.0.1-incubating-RC1,2416,9,2016-11-21
-juneau-6.0.1-incubating-RC3,2411,184,2016-12-19
-juneau-6.1.0-incubating-RC2,2428,0,2017-02-16
-juneau-6.2.0-incubating-RC1,2518,24,2017-04-14
-juneau-6.3.0-incubating-RC1,2663,4,2017-06-18
-juneau-6.3.1-incubating-RC1,2631,2082,2017-07-12
-juneau-7.0.0-RC1,1861,0,2017-10-22
-juneau-7.0.1-RC1,1842,261,2017-12-18
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+juneau-6.0.0-incubating-RC2,248,3,0.012096774193548387,10,1,0.1,2016-10-03
+juneau-6.0.0-incubating,0,0,0,0,0,0,2016-10-09
+juneau-6.0.0-incubating-RC3,53,48,0.9056603773584906,13,2,0.15384615384615385,2016-10-09
+juneau-6.0.1-incubating-RC1,14,9,0.6428571428571429,9,2,0.2222222222222222,2016-11-21
+juneau-6.0.1-incubating-RC2,481,0,0.0,26,0,0.0,2016-11-28
+juneau-6.0.1-incubating-RC3,1276,0,0.0,55,1,0.01818181818181818,2016-12-19
+juneau-6.0.1-incubating,0,0,0,0,0,0,2016-12-19
+juneau-6.1.0-incubating-RC1,158,0,0.0,7,0,0.0,2017-02-09
+juneau-6.1.0-incubating-RC2,753,0,0.0,97,0,0.0,2017-02-16
+juneau-6.1.0-incubating,0,0,0,0,0,0,2017-02-16
+juneau-6.2.0-incubating,0,0,0,0,0,0,2017-04-14
+juneau-6.2.0-incubating-RC1,710,23,0.0323943661971831,94,6,0.06382978723404255,2017-04-14
+juneau-6.3.0-incubating,0,0,0,0,0,0,2017-06-18
+juneau-6.3.0-incubating-RC1,810,0,0.0,43,0,0.0,2017-06-18
+juneau-6.3.1-incubating,0,0,0,0,0,0,2017-07-12
+juneau-6.3.1-incubating-RC1,2806,2076,0.7398431931575196,55,1,0.01818181818181818,2017-07-12
+juneau-6.4.0-incubating-RC1,260,0,0.0,17,0,0.0,2017-09-10
+juneau-6.4.0-incubating-RC2,61,0,0.0,14,0,0.0,2017-09-17
+juneau-6.4.0-incubating,0,0,0,0,0,0,2017-09-26
+juneau-6.4.0-incubating-RC3,330,0,0.0,28,0,0.0,2017-09-26
+juneau-7.0.0-RC1,313,0,0.0,22,0,0.0,2017-10-22
+juneau-7.0.0,0,0,0,0,0,0,2017-10-22
+juneau-7.0.1-RC1,1363,46,0.03374908290535583,168,4,0.023809523809523808,2017-12-18
+juneau-7.1.0-RC1,134,0,0.0,7,0,0.0,2018-02-27
+juneau-7.1.0,0,0,0,0,0,0,2018-03-02

@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\DBCP_0
+git=C:\Temp\apache_repos\commons-dbcp
+issue_tracker_product_name=DBCP
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(DBCP_1_4,DBCP_2_0_1_RC3, DBCP_2_0, DBCP_2_1,DBCP_2_2_RC2)

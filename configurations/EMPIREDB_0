@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\EMPIREDB_0
+git=C:\Temp\apache_repos\empire-db
+issue_tracker_product_name=EMPIREDB
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(pre-maven,empire-db-parent-2.3.0, apache-empire-db-2.4.0, apache-empire-db-2.4.1,apache-empire-db-2.4.2)

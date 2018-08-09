@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\CAY_5
+git=C:\Temp\apache_repos\cayenne
+issue_tracker_product_name=CAY
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(3.1M1,3.1M2, 3.0.2, 3.1M3,3.1B1)

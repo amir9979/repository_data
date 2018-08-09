@@ -1,9 +1,12 @@
-version_name,#files in version,#bugged files in version,bugged_ratio,version_date
-maven-clean-plugin-2.1,9,1,0.1111111111111111,2006-02-20
-maven-clean-plugin-2.1.1,10,3,0.3,2006-10-16
-maven-clean-plugin-2.2,9,0,0.0,2007-11-29
-maven-clean-plugin-2.4.1,7,0,0.0,2010-05-08
-maven-clean-plugin-2.5,7,2,0.2857142857142857,2012-05-23
-maven-clean-plugin-2.6,7,0,0.0,2014-09-22
-maven-clean-plugin-2.6.1,7,0,0.0,2014-10-26
-maven-clean-plugin-3.0.0,4,2,0.5,2015-10-19
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+maven-clean-plugin-2.0,2,0,0.0,10,0,0.0,2005-10-15
+maven-clean-plugin-2.1,3,0,0.0,22,2,0.09090909090909091,2006-02-20
+maven-clean-plugin-2.1.1,4,0,0.0,40,1,0.025,2006-10-16
+maven-clean-plugin-2.2,2,0,0.0,35,3,0.08571428571428572,2007-11-29
+maven-clean-plugin-2.3,7,0,0.0,10,0,0.0,2009-01-07
+maven-clean-plugin-2.4,4,0,0.0,7,0,0.0,2010-01-10
+maven-clean-plugin-2.4.1,3,0,0.0,18,3,0.16666666666666666,2010-05-08
+maven-clean-plugin-2.5,3,0,0.0,33,0,0.0,2012-05-23
+maven-clean-plugin-2.6,2,0,0.0,17,1,0.058823529411764705,2014-09-22
+maven-clean-plugin-2.6.1,14,0,0.0,19,0,0.0,2014-10-26
+maven-clean-plugin-3.0.0,4,2,0.5,22,2,0.09090909090909091,2015-10-19

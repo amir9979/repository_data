@@ -1,14 +1,19 @@
-version_name,#files in version,#bugged files in version,version_date
-maven-ear-plugin-2.1,72,13,2005-12-19
-maven-ear-plugin-2.2,74,37,2006-05-28
-maven-ear-plugin-2.3,70,16,2006-12-28
-maven-ear-plugin-2.3.1,68,16,2007-08-13
-maven-ear-plugin-2.3.2,68,12,2009-03-01
-maven-ear-plugin-2.4,68,5,2009-10-16
-maven-ear-plugin-2.4.2,66,31,2010-05-17
-maven-ear-plugin-2.5,73,4,2011-01-25
-maven-ear-plugin-2.6,70,0,2011-06-06
-maven-ear-plugin-2.7,68,15,2012-01-12
-maven-ear-plugin-2.8,71,2,2012-08-29
-maven-ear-plugin-2.9.1,68,12,2014-06-15
-maven-ear-plugin-2.10.1,67,9,2015-06-27
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+maven-ear-plugin-2.0,13,0,0.0,13,0,0.0,2005-10-15
+maven-ear-plugin-2.1,14,2,0.14285714285714285,16,2,0.125,2005-12-19
+maven-ear-plugin-2.2,41,16,0.3902439024390244,46,6,0.13043478260869565,2006-05-28
+maven-ear-plugin-2.3,16,9,0.5625,12,3,0.25,2006-12-28
+maven-ear-plugin-2.3.1,25,6,0.24,47,5,0.10638297872340426,2007-08-13
+maven-ear-plugin-2.3.2,16,12,0.75,21,6,0.2857142857142857,2009-03-01
+maven-ear-plugin-2.4,7,5,0.7142857142857143,7,4,0.5714285714285714,2009-10-16
+maven-ear-plugin-2.4.1,15,0,0.0,5,0,0.0,2010-02-16
+maven-ear-plugin-2.4.2,41,15,0.36585365853658536,12,4,0.3333333333333333,2010-05-17
+maven-ear-plugin-2.5,14,1,0.07142857142857142,12,1,0.08333333333333333,2011-01-25
+maven-ear-plugin-2.6,22,0,0.0,29,0,0.0,2011-06-06
+maven-ear-plugin-2.7,17,10,0.5882352941176471,25,4,0.16,2012-01-12
+maven-ear-plugin-2.8,59,2,0.03389830508474576,53,1,0.018867924528301886,2012-08-29
+maven-ear-plugin-2.9,3,0,0.0,9,0,0.0,2013-11-25
+maven-ear-plugin-2.9.1,65,12,0.18461538461538463,44,6,0.13636363636363635,2014-06-15
+maven-ear-plugin-2.10,4,0,0.0,11,0,0.0,2014-12-28
+maven-ear-plugin-2.10.1,129,4,0.031007751937984496,73,6,0.0821917808219178,2015-06-27
+maven-ear-plugin-3.0.0,0,0,0,7,0,0.0,2018-03-09

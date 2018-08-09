@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\ISIS_8
+git=C:\Temp\apache_repos\isis
+issue_tracker_product_name=ISIS
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(rel/simpleapp-archetype-1.12.1,rel/simpleapp-archetype-1.12.2, rel/simpleapp-archetype-1.13.0, rel/simpleapp-archetype-1.13.1,rel/simpleapp-archetype-1.13.2.1)

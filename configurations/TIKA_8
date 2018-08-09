@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\TIKA_8
+git=C:\Temp\apache_repos\tika
+issue_tracker_product_name=TIKA
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(1.9-rc2,1.10, 1.12-rc1, 1.13-rc1,1.14-rc1)

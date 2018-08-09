@@ -1,4 +1,8 @@
-version_name,#files in version,#bugged files in version,version_date
-sandbox,172,5,2007-10-05
-proxy-1.0-rc4,178,95,2008-02-23
-proxy-1.0,178,53,2008-02-27
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+sandbox,27,3,0.1111111111111111,21,4,0.19047619047619047,2007-10-05
+proxy-1.0-rc1,0,0,0,0,0,0,2008-02-19
+proxy-1.0-rc2,0,0,0,0,0,0,2008-02-19
+proxy-1.0-rc3,23,0,0.0,1,0,0.0,2008-02-23
+proxy-1.0-rc4,95,0,0.0,9,0,0.0,2008-02-23
+proxy-1.0,349,0,0.0,309,1,0.003236245954692557,2008-02-27
+1.0_RC1,1,0,0.0,4,0,0.0,2014-04-07

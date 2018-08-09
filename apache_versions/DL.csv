@@ -1,5 +1,5 @@
-version_name,#files in version,#bugged files in version,version_date
-0.3.51-RC0,1155,12,2016-05-09
-0.3.51-RC1,1158,1194,2016-05-30
-v0.4.0-incubating_2.10,616,689,2017-04-12
-v0.4.0-incubating_2.11,616,110,2017-08-15
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+0.3.51-RC0,519,9,0.017341040462427744,27,3,0.1111111111111111,2016-05-09
+0.3.51-RC1,1195,132,0.11046025104602511,160,59,0.36875,2016-05-30
+v0.4.0-incubating_2.10,689,332,0.4818577648766328,12,3,0.25,2017-04-12
+v0.4.0-incubating_2.11,110,5,0.045454545454545456,16,5,0.3125,2017-08-15

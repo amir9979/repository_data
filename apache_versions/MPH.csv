@@ -1,8 +1,9 @@
-version_name,#files in version,#bugged files in version,version_date
-maven-help-plugin-2.0.1,14,5,2006-05-07
-maven-help-plugin-2.0.2,14,11,2007-11-24
-maven-help-plugin-2.1,18,0,2008-08-31
-maven-help-plugin-2.1.1,19,9,2010-03-23
-maven-help-plugin-2.2,19,18,2013-02-20
-maven-help-plugin-3.0.0,12,3,2018-03-07
-maven-help-plugin-3.0.1,12,0,2018-03-22
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+maven-help-plugin-2.0,2,0,0.0,7,0,0.0,2006-01-25
+maven-help-plugin-2.0.1,5,1,0.2,32,1,0.03125,2006-05-07
+maven-help-plugin-2.0.2,15,2,0.13333333333333333,89,5,0.056179775280898875,2007-11-24
+maven-help-plugin-2.1,6,0,0.0,27,1,0.037037037037037035,2008-08-31
+maven-help-plugin-2.1.1,13,0,0.0,39,1,0.02564102564102564,2010-03-23
+maven-help-plugin-2.2,19,17,0.8947368421052632,72,3,0.041666666666666664,2013-02-20
+maven-help-plugin-3.0.0,5,0,0.0,8,0,0.0,2018-03-07
+maven-help-plugin-3.0.1,12,0,0.0,13,0,0.0,2018-03-22

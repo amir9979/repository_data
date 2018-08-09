@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\HADOOP_7
+git=C:\Temp\apache_repos\hadoop-common
+issue_tracker_product_name=HADOOP
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(release-1.1.2,release-0.23.7, release-2.0.4-alpha, release-1.2.0-rc1,release-2.0.5-alpha)

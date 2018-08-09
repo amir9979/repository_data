@@ -1,0 +1,5 @@
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+maven-scm-publish-plugin-1.0-beta-1,6,0,0.0,15,0,0.0,2012-09-11
+maven-scm-publish-plugin-1.0-beta-2,2,0,0.0,59,1,0.01694915254237288,2012-11-01
+maven-scm-publish-plugin-1.0,1,0,0.0,15,0,0.0,2014-01-31
+maven-scm-publish-plugin-1.1,9,0,0.0,39,2,0.05128205128205128,2014-05-18

@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\KARAF_10
+git=C:\Temp\apache_repos\karaf
+issue_tracker_product_name=KARAF
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(karaf-4.0.1,karaf-4.0.3, karaf-4.0.9, karaf-4.1.2,karaf-4.1.4)

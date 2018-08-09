@@ -1,3 +1,12 @@
-version_name,#files in version,#bugged files in version,version_date
-wink-1.2.1-incubating,53,3,2013-01-05
-wink-1.3.0,41,40,2013-04-13
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+wink-1.1-incubating,0,0,0,0,0,0,2013-01-05
+wink-1.0-incubating,0,0,0,0,0,0,2013-01-05
+wink-1.2.0-incubating,0,0,0,0,0,0,2013-01-05
+wink-1.2.1-incubating,5,0,0.0,9,1,0.1111111111111111,2013-01-05
+wink-0.1-incubating,0,0,0,0,0,0,2013-01-05
+wink-1.1.2-incubating,0,0,0,0,0,0,2013-01-05
+wink-1.1.3-incubating,0,0,0,0,0,0,2013-01-05
+wink-1.1.1-incubating,0,0,0,0,0,0,2013-01-05
+wink-1.3.0-RC1,4,0,0.0,2,0,0.0,2013-03-18
+wink-1.3.0,40,37,0.925,13,4,0.3076923076923077,2013-04-13
+wink-1.4.0-RC1,0,0,0,0,0,0,2013-08-26

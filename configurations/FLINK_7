@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\FLINK_7
+git=C:\Temp\apache_repos\flink
+issue_tracker_product_name=FLINK
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(release-1.1.1,release-1.1.3, release-1.1.4, release-1.2.0,release-1.1.5)

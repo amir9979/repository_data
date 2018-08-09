@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\TOBAGO_14
+git=C:\Temp\apache_repos\myfaces-tobago
+issue_tracker_product_name=TOBAGO
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(tobago-1.5.9,tobago-1.5.10, tobago-2.0.0-alpha-1, tobago-2.0.0-alpha-2,tobago-2.0.4)

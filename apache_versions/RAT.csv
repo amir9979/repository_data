@@ -1,5 +1,11 @@
-version_name,#files in version,#bugged files in version,version_date
-apache-rat-project-0.6RC1,153,0,2009-02-28
-apache-rat-project-0.6,150,135,2009-03-19
-apache-rat-project-0.7rc1,69,22,2010-07-13
-apache-rat-project-0.7,61,9,2010-07-30
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+apache-rat-project-0.6RC1,9,0,0.0,29,0,0.0,2009-02-28
+apache-rat-project-0.6RC2,0,0,0,1,0,0.0,2009-03-19
+apache-rat-project-0.6,160,4,0.025,86,6,0.06976744186046512,2009-03-19
+apache-rat-project-0.7rc1,22,0,0.0,12,0,0.0,2010-07-13
+apache-rat-project-0.7rc2,4,0,0.0,6,0,0.0,2010-07-14
+apache-rat-project-0.7rc3,0,0,0,1,0,0.0,2010-07-30
+apache-rat-project-0.7,32,5,0.15625,109,14,0.12844036697247707,2010-07-30
+apache-rat-project-0.8,0,0,0,1,0,0.0,2011-11-06
+apache-rat-project-0.8RC1,1,0,0.0,4,0,0.0,2011-11-06
+apache-rat-0.8RC2,0,0,0,0,0,0,2011-11-09

@@ -1,7 +1,9 @@
-version_name,#files in version,#bugged files in version,bugged_ratio,version_date
-tiles-request-1.0.0,38,2,0.05263157894736842,2012-05-04
-tiles-request-1.0.1,31,1,0.03225806451612903,2012-07-11
-tiles-request-1.0.2,19,4,0.21052631578947367,2012-08-21
-tiles-request-1.0.3,14,0,0.0,2013-05-20
-tiles-request-1.0.4,14,3,0.21428571428571427,2014-03-30
-tiles-request-1.0.6,12,4,0.3333333333333333,2014-09-16
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+tiles-request-1.0.0,11,2,0.18181818181818182,7,1,0.14285714285714285,2012-05-04
+tiles-request-1.0.1,13,0,0.0,4,0,0.0,2012-07-11
+tiles-request-1.0.2,4,0,0.0,4,0,0.0,2012-08-21
+tiles-request-mustache-1.1,3,0,0.0,5,0,0.0,2012-08-27
+tiles-request-1.0.3,0,0,0,5,2,0.4,2013-05-20
+tiles-request-1.0.4,3,3,1.0,5,5,1.0,2014-03-30
+tiles-request-1.0.5,0,0,0,0,0,0,2014-06-13
+tiles-request-1.0.6,4,4,1.0,2,2,1.0,2014-09-16

@@ -1,12 +1,14 @@
-version_name,#files in version,#bugged files in version,version_date
-amber-0.22-incubating,259,43,2013-01-18
-org.apache.oltu.parent-1,247,20,2013-05-09
-org.apache.oltu.oauth2-0.31,254,66,2013-06-20
-org.apache.oltu.parent-2,247,0,2014-02-03
-org.apache.oltu.commons.parent-1,249,0,2014-02-03
-org.apache.oltu.oauth2.parent-1.0.0,252,17,2014-03-05
-org.apache.oltu.parent-3,247,6,2015-07-06
-org.apache.oltu.oauth2.parent-1.0.1,250,60,2015-09-17
-org.apache.oltu.oauth2.parent-1.0.2,248,8,2016-04-22
-org.apache.oltu.commons.parent-2,249,0,2016-08-02
-org.apache.oltu.jose.parent-2,247,2,2016-08-02
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+amber-0.22-incubating,333,26,0.07807807807807808,103,5,0.04854368932038835,2013-01-18
+org.apache.oltu.parent-1,22,11,0.5,38,5,0.13157894736842105,2013-05-09
+org.apache.oltu.oauth2-0.31,75,23,0.30666666666666664,84,20,0.23809523809523808,2013-06-20
+org.apache.oltu.parent-2,0,0,0,3,1,0.3333333333333333,2014-02-03
+org.apache.oltu.commons.parent-1,1,0,0.0,4,1,0.25,2014-02-03
+org.apache.oltu.jose.parent-1,0,0,0,13,0,0.0,2014-02-03
+org.apache.oltu.oauth2.parent-1.0.0,20,11,0.55,34,6,0.17647058823529413,2014-03-05
+org.apache.oltu.parent-3,6,6,1.0,10,4,0.4,2015-07-06
+org.apache.oltu.oauth2.parent-1.0.1,70,34,0.4857142857142857,66,28,0.42424242424242425,2015-09-17
+org.apache.oltu.parent-4,3,0,0.0,5,0,0.0,2016-04-22
+org.apache.oltu.oauth2.parent-1.0.2,8,8,1.0,11,6,0.5454545454545454,2016-04-22
+org.apache.oltu.commons.parent-2,0,0,0,3,1,0.3333333333333333,2016-08-02
+org.apache.oltu.jose.parent-2,2,2,1.0,9,3,0.3333333333333333,2016-08-02

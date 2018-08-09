@@ -1,1 +1,9 @@
-version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+bsf-3.1,0,0,0,0,0,0,2011-08-17
+bsf-3.0-beta1,0,0,0,0,0,0,2011-08-17
+bsf-3.0-beta3,0,0,0,0,0,0,2011-08-17
+bsf-3.0,0,0,0,0,0,0,2011-08-17
+bsf-3.0-beta2,0,0,0,0,0,0,2011-08-17
+bsf-2.4.0-rc2,0,0,0,0,0,0,2011-08-17
+bsf-2.4.0,0,0,0,0,0,0,2011-08-17
+bsf-2.4.0-rc1,0,0,0,0,0,0,2011-08-17

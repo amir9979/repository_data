@@ -1,0 +1,7 @@
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+1.0-RC3,0,0,0,0,0,0,2007-07-29
+1.0-RC2,0,0,0,0,0,0,2007-07-29
+1.0,0,0,0,0,0,0,2007-07-29
+1.0-RC4,63,12,0.19047619047619047,160,23,0.14375,2007-07-29
+1.0-RC1,0,0,0,0,0,0,2007-07-29
+1.1-RC1,156,0,0.0,3,0,0.0,2013-10-09

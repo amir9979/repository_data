@@ -1,5 +1,8 @@
-version_name,#files in version,#bugged files in version,version_date
-apache-vxquery-0.2-incubating,750,4,2013-10-03
-apache-vxquery-0.3-incubating,748,19,2014-04-10
-apache-vxquery-0.4,757,0,2014-09-01
-apache-vxquery-0.5,757,597,2015-03-02
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+vxquery-0.1,0,0,0,25,0,0.0,2013-09-27
+apache-vxquery-0.2-incubating-RC2,0,0,0,0,0,0,2013-09-27
+apache-vxquery-0.2-incubating-RC1,0,0,0,0,0,0,2013-09-27
+apache-vxquery-0.2-incubating,153,3,0.0196078431372549,255,1,0.00392156862745098,2013-10-03
+apache-vxquery-0.3-incubating,66,19,0.2878787878787879,76,4,0.05263157894736842,2014-04-10
+apache-vxquery-0.4,99,0,0.0,52,0,0.0,2014-09-01
+apache-vxquery-0.5,626,6,0.009584664536741214,140,5,0.03571428571428571,2015-03-02

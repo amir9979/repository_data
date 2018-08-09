@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\OAK_62
+git=C:\Temp\apache_repos\jackrabbit-oak
+issue_tracker_product_name=OAK
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(jackrabbit-oak-1.2.20,jackrabbit-oak-1.4.9, jackrabbit-oak-1.4.10, jackrabbit-oak-1.2.21,jackrabbit-oak-1.5.14)

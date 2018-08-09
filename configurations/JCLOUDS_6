@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\JCLOUDS_6
+git=C:\Temp\apache_repos\jclouds
+issue_tracker_product_name=JCLOUDS
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(jclouds-1.4.0-rc.2,jclouds-1.4.0-rc.3, jclouds-1.4.0, jclouds-1.5.0-alpha.1,jclouds-1.5.0-alpha.3)

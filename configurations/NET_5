@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\NET_5
+git=C:\Temp\apache_repos\commons-net
+issue_tracker_product_name=NET
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(NET_2_1_r924745,NET_2_2_RC3, NET_2_2, NET_3_0,NET_3_0_1)

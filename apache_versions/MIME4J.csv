@@ -1,11 +1,14 @@
-version_name,#files in version,#bugged files in version,version_date
-mime4j_0_2,403,4,2006-01-09
-apache-mime4j-0.3,340,77,2007-05-24
-apache-mime4j-0.4,387,60,2008-08-14
-apache-mime4j-0.5,454,646,2008-10-12
-apache-mime4j-0.6.1,471,124,2010-12-27
-apache-mime4j-project-0.7,196,9,2011-07-20
-apache-mime4j-project-0.7.1,196,7,2011-10-08
-apache-mime4j-project-0.7.2,197,130,2012-01-07
-apache-mime4j-project-0.8.0,54,14,2016-10-12
-apache-mime4j-project-0.8.1,45,16,2017-06-09
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+initial_import,3,0,0.0,4,0,0.0,2005-06-07
+mime4j_0_2,339,3,0.008849557522123894,67,4,0.05970149253731343,2006-01-09
+build_0_3,0,0,0,4,0,0.0,2007-05-19
+apache-mime4j-0.3,298,63,0.21140939597315436,152,26,0.17105263157894737,2007-05-24
+apache-mime4j-0.4,71,36,0.5070422535211268,27,8,0.2962962962962963,2008-08-14
+apache-mime4j-0.5,684,139,0.20321637426900585,295,18,0.061016949152542375,2008-10-12
+apache-mime4j-0.6,0,0,0,0,0,0,2010-12-17
+apache-mime4j-0.6.1,307,12,0.03908794788273615,117,8,0.06837606837606838,2010-12-27
+apache-mime4j-project-0.7,9,9,1.0,10,4,0.4,2011-07-20
+apache-mime4j-project-0.7.1,20,7,0.35,22,4,0.18181818181818182,2011-10-08
+apache-mime4j-project-0.7.2,183,39,0.21311475409836064,69,23,0.3333333333333333,2012-01-07
+apache-mime4j-project-0.8.0,17,11,0.6470588235294118,20,2,0.1,2016-10-12
+apache-mime4j-project-0.8.1,16,4,0.25,10,2,0.2,2017-06-09

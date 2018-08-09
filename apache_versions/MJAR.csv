@@ -1,11 +1,13 @@
-version_name,#files in version,#bugged files in version,version_date
-maven-jar-plugin-2.0,47,3,2005-10-15
-maven-jar-plugin-2.1,52,30,2006-08-31
-maven-jar-plugin-2.2,26,2,2008-01-12
-maven-jar-plugin-2.3.1,19,0,2010-05-17
-maven-jar-plugin-2.3.2,19,2,2011-08-18
-maven-jar-plugin-2.4,17,7,2012-01-26
-maven-jar-plugin-2.5,10,2,2014-06-19
-maven-jar-plugin-2.6,10,0,2015-03-04
-maven-jar-plugin-3.0.0,2,0,2016-05-04
-maven-jar-plugin-3.0.2,1,0,2016-06-18
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+maven-jar-plugin-2.0,10,1,0.1,41,3,0.07317073170731707,2005-10-15
+maven-jar-plugin-2.1,91,7,0.07692307692307693,56,4,0.07142857142857142,2006-08-31
+maven-jar-plugin-2.2,13,2,0.15384615384615385,55,3,0.05454545454545454,2008-01-12
+maven-jar-plugin-2.3,2,0,0.0,4,0,0.0,2009-11-20
+maven-jar-plugin-2.3.1,3,0,0.0,21,0,0.0,2010-05-17
+maven-jar-plugin-2.3.2,5,2,0.4,13,1,0.07692307692307693,2011-08-18
+maven-jar-plugin-2.4,10,5,0.5,43,2,0.046511627906976744,2012-01-26
+maven-jar-plugin-2.5,3,0,0.0,26,1,0.038461538461538464,2014-06-19
+maven-jar-plugin-2.6,14,0,0.0,48,1,0.020833333333333332,2015-03-04
+maven-jar-plugin-3.0.0,0,0,0,12,0,0.0,2016-05-04
+maven-jar-plugin-3.0.1,1,0,0.0,5,0,0.0,2016-06-06
+maven-jar-plugin-3.0.2,1,0,0.0,16,3,0.1875,2016-06-18

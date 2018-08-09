@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\WICKET_17
+git=C:\Temp\apache_repos\wicket
+issue_tracker_product_name=WICKET
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(wicket-1.5.2,wicket-1.5.3, wicket-1.5.4, wicket-1.4.20,wicket-1.5.7)

@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\KYLIN_20
+git=C:\Temp\apache_repos\kylin
+issue_tracker_product_name=KYLIN
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(kylin-1.5.4.1-cdh5.7,kylin-1.6.0, kylin-1.6.0-cdh5.7, kylin-2.0.0-hbase0.98,kylin-2.1.0)

@@ -1,5 +1,5 @@
-version_name,#files in version,#bugged files in version,version_date
-maven-pdf-plugin-1.0,14,6,2009-06-25
-maven-pdf-plugin-1.1,14,1,2009-12-08
-maven-pdf-plugin-1.2,14,1,2012-11-05
-maven-pdf-plugin-1.3,14,1,2015-02-11
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+maven-pdf-plugin-1.0,7,1,0.14285714285714285,54,2,0.037037037037037035,2009-06-25
+maven-pdf-plugin-1.1,3,0,0.0,49,0,0.0,2009-12-08
+maven-pdf-plugin-1.2,4,0,0.0,51,0,0.0,2012-11-05
+maven-pdf-plugin-1.3,8,0,0.0,46,1,0.021739130434782608,2015-02-11

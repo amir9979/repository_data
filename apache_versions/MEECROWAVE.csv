@@ -1,9 +1,9 @@
-version_name,#files in version,#bugged files in version,version_date
-meecrowave-0.2.0,121,27,2017-01-02
-meecrowave-0.3.0,96,19,2017-02-19
-meecrowave-0.3.1,94,36,2017-04-28
-meecrowave-1.0.0,77,9,2017-07-07
-meecrowave-1.1.0,72,30,2017-09-01
-meecrowave-1.2.0,224,14,2017-12-20
-meecrowave-1.2.1,38,39,2018-02-26
-meecrowave-1.2.2,4,4,2018-07-14
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+meecrowave-0.2.0,48,4,0.08333333333333333,50,3,0.06,2017-01-02
+meecrowave-0.3.0,22,2,0.09090909090909091,23,2,0.08695652173913043,2017-02-19
+meecrowave-0.3.1,41,2,0.04878048780487805,48,6,0.125,2017-04-28
+meecrowave-1.0.0,10,5,0.5,22,10,0.45454545454545453,2017-07-07
+meecrowave-1.1.0,37,17,0.4594594594594595,54,15,0.2777777777777778,2017-09-01
+meecrowave-1.2.0,29,12,0.41379310344827586,34,8,0.23529411764705882,2017-12-20
+meecrowave-1.2.1,43,3,0.06976744186046512,58,10,0.1724137931034483,2018-02-26
+meecrowave-1.2.2,4,4,1.0,4,2,0.5,2018-07-14

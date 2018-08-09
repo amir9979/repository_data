@@ -1,3 +1,8 @@
-version_name,#files in version,#bugged files in version,version_date
-0_9,328,0,2010-11-20
-1_4,47,0,2010-12-19
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+1_1,0,0,0,0,0,0,2010-11-20
+1_2,0,0,0,0,0,0,2010-11-20
+1_0,0,0,0,0,0,0,2010-11-20
+0_9,2,0,0.0,55,7,0.12727272727272726,2010-11-20
+1_4,22,0,0.0,20,2,0.1,2010-12-19
+v1.6.0,5,0,0.0,15,0,0.0,2011-06-02
+v1.6.1,6,0,0.0,14,0,0.0,2011-12-10

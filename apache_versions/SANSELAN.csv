@@ -1,1 +1,6 @@
-version_name,#files in version,#bugged files in version,bugged_ratio,version_date
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+sanselan-0.95-incubator,0,0,0,0,0,0,2009-07-06
+sanselan-0.92-incubator,0,0,0,0,0,0,2009-07-06
+sanselan-0.94-incubator,0,0,0,0,0,0,2009-07-06
+sanselan-0.96-incubator,0,0,0,0,0,0,2009-07-06
+sanselan-0.93-incubator,0,0,0,0,0,0,2009-07-06

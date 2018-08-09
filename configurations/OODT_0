@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\OODT_0
+git=C:\Temp\apache_repos\oodt
+issue_tracker_product_name=OODT
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(0.1-incubating,0.2, 0.5, 0.6,oodt-0.7)

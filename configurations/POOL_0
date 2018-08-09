@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\POOL_0
+git=C:\Temp\apache_repos\commons-pool
+issue_tracker_product_name=POOL
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(POOL_1_3_RC1@560656,POOL_1_3_RC3@388728, POOL_1_3_RC4@560656, start,POOL_1_5_1)

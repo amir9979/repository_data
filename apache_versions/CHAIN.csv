@@ -1,3 +1,10 @@
-version_name,#files in version,#bugged files in version,bugged_ratio,version_date
-start,222,7,0.03153153153153153,2007-07-29
-CHAIN_1_2_RC2,171,2,0.011695906432748537,2008-05-22
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+CHAIN_1_1_RC1,0,0,0,0,0,0,2007-07-29
+CHAIN_1_1,0,0,0,0,0,0,2007-07-29
+CHAIN_1_1_RC3,0,0,0,0,0,0,2007-07-29
+start,46,7,0.15217391304347827,50,8,0.16,2007-07-29
+CHAIN_1_1_RC2,0,0,0,0,0,0,2007-07-29
+CHAIN_1_0,0,0,0,0,0,0,2007-07-29
+CHAIN_1_2_RC1,1,0,0.0,5,0,0.0,2008-05-21
+CHAIN_1_2_RC2,21,2,0.09523809523809523,13,1,0.07692307692307693,2008-05-22
+CHAIN_1_2_RC3,0,0,0,0,0,0,2008-05-29

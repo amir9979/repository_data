@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\IO_0
+git=C:\Temp\apache_repos\commons-io
+issue_tracker_product_name=IO
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(commons-io-1.3.2,commons-io-2.0-rc1, commons-io-2.0-rc2, 2.3-RC1,2.2)

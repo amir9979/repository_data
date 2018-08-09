@@ -1,10 +1,15 @@
-version_name,#files in version,#bugged files in version,version_date
-maven-resources-plugin-2.1,22,11,2005-10-25
-maven-resources-plugin-2.2,26,7,2006-05-14
-maven-resources-plugin-2.3,24,3,2008-10-14
-maven-resources-plugin-2.4.1,24,0,2009-09-30
-maven-resources-plugin-2.5,24,1,2011-02-24
-maven-resources-plugin-2.6,21,0,2012-08-15
-maven-resources-plugin-2.7,20,4,2014-09-29
-maven-resources-plugin-3.0.0,1,0,2016-05-16
-maven-resources-plugin-3.0.2,1,0,2016-12-05
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+maven-resources-plugin-2.0,1,0,0.0,3,0,0.0,2005-10-15
+maven-resources-plugin-2.1,13,0,0.0,13,0,0.0,2005-10-25
+maven-resources-plugin-2.2,19,6,0.3157894736842105,83,6,0.07228915662650602,2006-05-14
+maven-resources-plugin-2.3,4,3,0.75,27,3,0.1111111111111111,2008-10-14
+maven-resources-plugin-2.4,1,0,0.0,12,0,0.0,2009-08-21
+maven-resources-plugin-2.4.1,0,0,0,6,1,0.16666666666666666,2009-09-30
+maven-resources-plugin-2.4.2,3,0,0.0,4,0,0.0,2010-02-18
+maven-resources-plugin-2.4.3,6,0,0.0,20,0,0.0,2010-05-17
+maven-resources-plugin-2.5,8,0,0.0,32,1,0.03125,2011-02-24
+maven-resources-plugin-2.6,10,0,0.0,34,1,0.029411764705882353,2012-08-15
+maven-resources-plugin-2.7,33,0,0.0,58,0,0.0,2014-09-29
+maven-resources-plugin-3.0.0,0,0,0,9,0,0.0,2016-05-16
+maven-resources-plugin-3.0.1,1,0,0.0,10,0,0.0,2016-06-03
+maven-resources-plugin-3.0.2,1,0,0.0,19,0,0.0,2016-12-05

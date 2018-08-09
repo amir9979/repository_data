@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\AMBARI_4
+git=C:\Temp\apache_repos\ambari
+issue_tracker_product_name=AMBARI
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(release-1.4.4-rc0,release-1.5.0-rc0, release-1.5.1-rc0, release-1.6.0-rc0,release-1.6.1-rc2)

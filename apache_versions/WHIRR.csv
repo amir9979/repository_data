@@ -1,0 +1,14 @@
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+release-0.5.0-incubating,0,0,0,0,0,0,2011-08-29
+release-0.6.0-incubating,134,4,0.029850746268656716,65,1,0.015384615384615385,2011-08-29
+release-0.2.0-incubating,0,0,0,0,0,0,2011-08-29
+release-0.1.0-incubating,0,0,0,0,0,0,2011-08-29
+release-0.4.0-incubating,0,0,0,0,0,0,2011-08-29
+release-0.3.0-incubating,0,0,0,0,0,0,2011-08-29
+release-0.7.0,122,0,0.0,54,0,0.0,2011-12-14
+release-0.7.1,168,20,0.11904761904761904,95,10,0.10526315789473684,2012-02-24
+release-0.8.0,27,0,0.0,21,0,0.0,2012-08-21
+release-0.8.1,59,0,0.0,32,0,0.0,2012-10-12
+release-0.8.2-rc0,0,0,0,1,0,0.0,2013-04-16
+release-0.8.2-rc2,32,0,0.0,18,1,0.05555555555555555,2013-04-17
+release-0.8.2,0,0,0,0,0,0,2013-04-17

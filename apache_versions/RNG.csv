@@ -1,4 +1,12 @@
-version_name,#files in version,#bugged files in version,version_date
-RNG_1_0_RC2,160,214,2016-09-17
-RNG_1_0_RC6,56,28,2016-12-06
-RNG_1_1_RC4,4,4,2018-07-31
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+RNG_1_0_RC1,0,0,0,7,0,0.0,2016-09-10
+RNG_1_0_RC2,305,0,0.0,188,1,0.005319148936170213,2016-09-17
+RNG_1_0_RC3,0,0,0,1,0,0.0,2016-11-29
+RNG_1_0_RC4,0,0,0,0,0,0,2016-11-29
+RNG_1_0_RC5,0,0,0,6,0,0.0,2016-11-29
+RNG_1_0,0,0,0,0,0,0,2016-12-06
+RNG_1_0_RC6,85,0,0.0,165,2,0.012121212121212121,2016-12-06
+RNG_1_1_RC1,0,0,0,0,0,0,2018-07-18
+RNG_1_1_RC2,0,0,0,0,0,0,2018-07-19
+RNG_1_1_RC3,0,0,0,0,0,0,2018-07-24
+RNG_1_1_RC4,0,0,0,1,0,0.0,2018-07-31

@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\MAHOUT_0
+git=C:\Temp\apache_repos\mahout
+issue_tracker_product_name=MAHOUT
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(mahout-collections-1.0,mahout-0.4, mahout-0.5, mahout-0.6,mahout-0.7)

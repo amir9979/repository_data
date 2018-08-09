@@ -1,7 +1,9 @@
-version_name,#files in version,#bugged files in version,bugged_ratio,version_date
-maven-install-plugin-2.0,27,1,0.037037037037037035,2005-10-15
-maven-install-plugin-2.1,27,11,0.4074074074074074,2006-01-11
-maven-install-plugin-2.2,30,2,0.06666666666666667,2007-05-14
-maven-install-plugin-2.3,26,2,0.07692307692307693,2009-03-22
-maven-install-plugin-2.3.1,26,3,0.11538461538461539,2010-05-17
-maven-install-plugin-2.4,26,0,0.0,2012-09-03
+version_name,#commited files in version,#bugged files in version,bugged_ratio,#commits,#bugged_commits,#ratio_bugged_commits,version_date
+maven-install-plugin-2.0,2,1,0.5,10,1,0.1,2005-10-15
+maven-install-plugin-2.1,11,3,0.2727272727272727,46,5,0.10869565217391304,2006-01-11
+maven-install-plugin-2.2,24,0,0.0,63,0,0.0,2007-05-14
+maven-install-plugin-2.3,2,2,1.0,9,1,0.1111111111111111,2009-03-22
+maven-install-plugin-2.3.1,4,3,0.75,22,1,0.045454545454545456,2010-05-17
+maven-install-plugin-2.4,13,0,0.0,32,1,0.03125,2012-09-03
+maven-install-plugin-2.5,9,0,0.0,10,0,0.0,2013-09-06
+maven-install-plugin-2.5.1,2,0,0.0,15,0,0.0,2013-10-14

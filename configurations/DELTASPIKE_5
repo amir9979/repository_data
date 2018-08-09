@@ -1,0 +1,6 @@
+workingDir=C:\amirelm\projects\DELTASPIKE_5
+git=C:\Temp\apache_repos\deltaspike
+issue_tracker_product_name=DELTASPIKE
+issue_tracker_url=https://issues.apache.org/jira
+issue_tracker=jira
+vers=(deltaspike-project-1.2.0,deltaspike-root-1.3.0, deltaspike-1.4.1, deltaspike-1.4.2,deltaspike-1.5.0)
